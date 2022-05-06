@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647451620937",
+    "project_id": "primal-asset-302000",
+    "storage_bucket": "primal-asset-302000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647451620937:android:42a51dbc1d56e6b8213198",
+        "android_client_info": {
+          "package_name": "com.test.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647451620937-asnls8jf9m94gm92cq2pv2uj2siu9bmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.quiz_app",
+            "certificate_hash": "74e36ffa5efa5d23fb42d31086d2786327ddbb6c"
+          }
+        },
+        {
+          "client_id": "647451620937-ov0vl4o7auds2peoki5p7957uf4fm3l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiq-0stlkFPXxtzNF7jh-r1QKl_ZKddJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647451620937-ov0vl4o7auds2peoki5p7957uf4fm3l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
